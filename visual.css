@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family:unset;
+}
+
+h2{
+    color: aqua;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.encabezado{
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+body{
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.parrafo{
+    background-color: beige;
+    margin: 20px auto;
+    
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.lista{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: beige;
+}
+
+footer{
+    text-align:end;
+    background-color: beige;
+    margin: 20px auto;
+    width:auto;
+    height: 105px;
+}
+
+.sub{
+    text-shadow: 4px 4px 4px black;
+}
